@@ -1,6 +1,6 @@
 # Password-Strength-Analysis
 
-tep 1: Create Multiple Passwords with Varying Complexity
+step 1: Create Multiple Passwords with Varying Complexity
 | Password      | Description                                              |
 | ------------- | -------------------------------------------------------- |
 | `123456`      | Very weak: Only numbers, short                           |
